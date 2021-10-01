@@ -60,7 +60,7 @@ echo $scl->molestia()->texto();
 
 ### Ejemplo
 
-Se elaboró un ejemplo de implementación sencillo con Bootstrap y CkEditor, se encuentra en al carpeta web
+Se elaboró un ejemplo de implementación sencillo con Bootstrap y CkEditor, se encuentra en al carpeta web y en el siguiente enlace: [Prueba SCL90R - Psicosis](https://scl90r.ticsa.org.mx/)
 
 ### Información de la prueba
 
