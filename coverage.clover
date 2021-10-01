@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1633100175">
+  <project timestamp="1633100175">
+    <file name="C:\xampp\htdocs\scl90r\src\PruebaScl90R.php">
+      <class name="src\PruebaScl90R" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="5" coveredstatements="5" elements="8" coveredelements="8"/>
+      </class>
+      <line num="27" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="31" type="stmt" count="1"/>
+      <line num="32" type="stmt" count="1"/>
+      <line num="33" type="stmt" count="1"/>
+      <line num="40" type="method" name="frase" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="42" type="stmt" count="1"/>
+      <line num="50" type="method" name="molestia" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="52" type="stmt" count="1"/>
+      <metrics loc="54" ncloc="31" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="5" coveredstatements="5" elements="8" coveredelements="8"/>
+    </file>
+    <file name="C:\xampp\htdocs\scl90r\src\factory\Frases.php">
+      <class name="src\factory\Frases" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="21" coveredelements="21"/>
+      </class>
+      <line num="13" type="method" name="crear" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="15" type="stmt" count="1"/>
+      <line num="16" type="stmt" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <line num="19" type="stmt" count="1"/>
+      <line num="20" type="stmt" count="1"/>
+      <line num="21" type="stmt" count="1"/>
+      <line num="22" type="stmt" count="1"/>
+      <line num="23" type="stmt" count="1"/>
+      <line num="24" type="stmt" count="1"/>
+      <line num="25" type="stmt" count="1"/>
+      <line num="26" type="stmt" count="1"/>
+      <line num="27" type="stmt" count="1"/>
+      <line num="28" type="stmt" count="1"/>
+      <line num="29" type="stmt" count="1"/>
+      <line num="30" type="stmt" count="1"/>
+      <line num="31" type="stmt" count="1"/>
+      <line num="32" type="stmt" count="1"/>
+      <line num="33" type="stmt" count="1"/>
+      <line num="34" type="stmt" count="1"/>
+      <line num="36" type="stmt" count="1"/>
+      <metrics loc="38" ncloc="38" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="21" coveredelements="21"/>
+    </file>
+    <file name="C:\xampp\htdocs\scl90r\src\factory\PruebaScl90R.php">
+      <class name="src\factory\PruebaScl90R" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="5" coveredelements="5"/>
+      </class>
+      <line num="12" type="method" name="crear" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="14" type="stmt" count="1"/>
+      <line num="16" type="stmt" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <line num="20" type="stmt" count="1"/>
+      <metrics loc="22" ncloc="22" classes="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="5" coveredelements="5"/>
+    </file>
+    <file name="C:\xampp\htdocs\scl90r\src\frases\Frase.php">
+      <class name="src\frases\Frase" namespace="global">
+        <metrics complexity="10" methods="7" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="27" coveredelements="27"/>
+      </class>
+      <line num="22" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="5"/>
+      <line num="24" type="stmt" count="5"/>
+      <line num="25" type="stmt" count="5"/>
+      <line num="26" type="stmt" count="5"/>
+      <line num="27" type="stmt" count="4"/>
+      <line num="28" type="stmt" count="3"/>
+      <line num="30" type="method" name="fraseTexto" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="32" type="stmt" count="1"/>
+      <line num="35" type="method" name="fraseNumero" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="37" type="stmt" count="1"/>
+      <line num="40" type="method" name="valorTexto" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="42" type="stmt" count="1"/>
+      <line num="45" type="method" name="valorNumero" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="47" type="stmt" count="2"/>
+      <line num="50" type="method" name="setFrase" visibility="private" complexity="2" crap="2" count="5"/>
+      <line num="52" type="stmt" count="5"/>
+      <line num="53" type="stmt" count="1"/>
+      <line num="56" type="stmt" count="4"/>
+      <line num="58" type="stmt" count="4"/>
+      <line num="61" type="method" name="setValor" visibility="private" complexity="3" crap="3" count="4"/>
+      <line num="63" type="stmt" count="4"/>
+      <line num="64" type="stmt" count="3"/>
+      <line num="65" type="stmt" count="3"/>
+      <line num="68" type="stmt" count="2"/>
+      <line num="69" type="stmt" count="1"/>
+      <line num="70" type="stmt" count="1"/>
+      <line num="73" type="stmt" count="1"/>
+      <metrics loc="75" ncloc="75" classes="1" methods="7" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="20" elements="27" coveredelements="27"/>
+    </file>
+    <file name="C:\xampp\htdocs\scl90r\src\frases\Frases.php">
+      <class name="src\frases\Frases" namespace="global">
+        <metrics complexity="18" methods="18" coveredmethods="18" conditionals="0" coveredconditionals="0" statements="35" coveredstatements="35" elements="53" coveredelements="53"/>
+      </class>
+      <line num="43" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="62" type="stmt" count="2"/>
+      <line num="63" type="stmt" count="2"/>
+      <line num="64" type="stmt" count="2"/>
+      <line num="65" type="stmt" count="2"/>
+      <line num="66" type="stmt" count="2"/>
+      <line num="67" type="stmt" count="2"/>
+      <line num="68" type="stmt" count="2"/>
+      <line num="69" type="stmt" count="2"/>
+      <line num="70" type="stmt" count="2"/>
+      <line num="71" type="stmt" count="2"/>
+      <line num="72" type="stmt" count="2"/>
+      <line num="73" type="stmt" count="2"/>
+      <line num="74" type="stmt" count="2"/>
+      <line num="75" type="stmt" count="2"/>
+      <line num="76" type="stmt" count="2"/>
+      <line num="77" type="stmt" count="2"/>
+      <line num="78" type="stmt" count="2"/>
+      <line num="79" type="stmt" count="2"/>
+      <line num="81" type="method" name="frase1" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="83" type="stmt" count="1"/>
+      <line num="86" type="method" name="frase2" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="88" type="stmt" count="1"/>
+      <line num="91" type="method" name="frase3" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="93" type="stmt" count="1"/>
+      <line num="96" type="method" name="frase4" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="98" type="stmt" count="1"/>
+      <line num="101" type="method" name="frase5" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="103" type="stmt" count="1"/>
+      <line num="106" type="method" name="frase6" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="108" type="stmt" count="1"/>
+      <line num="111" type="method" name="frase7" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="113" type="stmt" count="1"/>
+      <line num="116" type="method" name="frase8" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="118" type="stmt" count="1"/>
+      <line num="121" type="method" name="frase9" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="123" type="stmt" count="1"/>
+      <line num="126" type="method" name="frase10" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="128" type="stmt" count="1"/>
+      <line num="131" type="method" name="frase11" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="133" type="stmt" count="1"/>
+      <line num="136" type="method" name="frase12" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="138" type="stmt" count="1"/>
+      <line num="141" type="method" name="frase13" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="143" type="stmt" count="1"/>
+      <line num="146" type="method" name="frase14" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="148" type="stmt" count="1"/>
+      <line num="151" type="method" name="frase15" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="153" type="stmt" count="1"/>
+      <line num="156" type="method" name="frase16" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="158" type="stmt" count="1"/>
+      <line num="161" type="method" name="frase17" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="163" type="stmt" count="1"/>
+      <metrics loc="165" ncloc="165" classes="1" methods="18" coveredmethods="18" conditionals="0" coveredconditionals="0" statements="35" coveredstatements="35" elements="53" coveredelements="53"/>
+    </file>
+    <file name="C:\xampp\htdocs\scl90r\src\frases\FrasesValidas.php">
+      <class name="src\frases\FrasesValidas" namespace="global">
+        <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </class>
+      <metrics loc="25" ncloc="25" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="C:\xampp\htdocs\scl90r\src\frases\ValoresValidos.php">
+      <class name="src\frases\ValoresValidos" namespace="global">
+        <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </class>
+      <metrics loc="13" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="C:\xampp\htdocs\scl90r\src\interfaces\FraseInterface.php">
+      <metrics loc="11" ncloc="11" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="C:\xampp\htdocs\scl90r\src\molestia\Molestia.php">
+      <class name="src\molestia\Molestia" namespace="global">
+        <metrics complexity="6" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="27" coveredstatements="27" elements="30" coveredelements="30"/>
+      </class>
+      <line num="13" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="15" type="stmt" count="2"/>
+      <line num="16" type="stmt" count="2"/>
+      <line num="17" type="stmt" count="2"/>
+      <line num="19" type="method" name="numero" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="21" type="stmt" count="1"/>
+      <line num="22" type="stmt" count="1"/>
+      <line num="23" type="stmt" count="1"/>
+      <line num="24" type="stmt" count="1"/>
+      <line num="25" type="stmt" count="1"/>
+      <line num="26" type="stmt" count="1"/>
+      <line num="27" type="stmt" count="1"/>
+      <line num="28" type="stmt" count="1"/>
+      <line num="29" type="stmt" count="1"/>
+      <line num="30" type="stmt" count="1"/>
+      <line num="31" type="stmt" count="1"/>
+      <line num="32" type="stmt" count="1"/>
+      <line num="33" type="stmt" count="1"/>
+      <line num="34" type="stmt" count="1"/>
+      <line num="35" type="stmt" count="1"/>
+      <line num="36" type="stmt" count="1"/>
+      <line num="37" type="stmt" count="1"/>
+      <line num="39" type="stmt" count="1"/>
+      <line num="42" type="method" name="texto" visibility="public" complexity="4" crap="4" count="1"/>
+      <line num="44" type="stmt" count="1"/>
+      <line num="46" type="stmt" count="1"/>
+      <line num="47" type="stmt" count="1"/>
+      <line num="49" type="stmt" count="1"/>
+      <line num="50" type="stmt" count="1"/>
+      <line num="54" type="stmt" count="1"/>
+      <metrics loc="56" ncloc="56" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="27" coveredstatements="27" elements="30" coveredelements="30"/>
+    </file>
+    <file name="C:\xampp\htdocs\scl90r\src\molestia\ValoresMolestia.php">
+      <class name="src\molestia\ValoresMolestia" namespace="global">
+        <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </class>
+      <metrics loc="13" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <metrics files="10" loc="472" ncloc="449" classes="6" methods="33" coveredmethods="33" conditionals="0" coveredconditionals="0" statements="111" coveredstatements="111" elements="144" coveredelements="144"/>
+  </project>
+</coverage>
