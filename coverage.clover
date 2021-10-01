@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1633100175">
-  <project timestamp="1633100175">
+<coverage generated="1633106708">
+  <project timestamp="1633106708">
     <file name="C:\xampp\htdocs\scl90r\src\PruebaScl90R.php">
       <class name="src\PruebaScl90R" namespace="global">
         <metrics complexity="3" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="5" coveredstatements="5" elements="8" coveredelements="8"/>
